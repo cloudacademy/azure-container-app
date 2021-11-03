@@ -1,5 +1,5 @@
 # Running a Container on Azure App Service
-This file contains the Dockerfile text needed for the demo in Cloud Academy's _Running a Container on Azure App Service_ course.  
+This file contains the URLs and Dockerfile text needed for the demo in Cloud Academy's _Running a Container on Azure App Service_ course.  
 
 ### Free Azure Trial
 https://azure.microsoft.com/free  
