@@ -4,6 +4,12 @@ This file contains the Dockerfile text needed for the demo in Cloud Academy's _R
 ### Free Azure Trial
 https://azure.microsoft.com/free  
 
+### Docker Download
+https://docs.docker.com/get-docker
+
+### Visual Studio Code Download
+https://code.visualstudio.com
+
 ### Dockerfile
 ```
 FROM mcr.microsoft.com/appsvc/dotnetcore:lts
